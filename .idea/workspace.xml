@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a5a72f-0543-4ae6-b12e-33bb6bfa967b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Environment/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k4uSoRPNaM2CEVm0MqC6uM7Q33" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.demo3shengchanxiaofei">
+    <configuration name="demo1synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo1.demo1synchronized" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2lock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo1.demo2lock" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo3shengchanxiaofei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo1.demo3shengchanxiaofei" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo3shengchanxiaofei" />
+        <item itemvalue="Application.demo2lock" />
+        <item itemvalue="Application.demo1synchronized" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a5a72f-0543-4ae6-b12e-33bb6bfa967b" name="Default Changelist" comment="" />
+      <created>1604972186447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604972186447</updated>
+      <workItem from="1604972187856" duration="575000" />
+      <workItem from="1605265547258" duration="4440000" />
+      <workItem from="1605402711413" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="520" key="GridCell.Tab.0.bottom" timestamp="1605273920154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="520" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605273920154" />
+    <state width="1877" height="520" key="GridCell.Tab.0.center" timestamp="1605273920154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="520" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605273920154" />
+    <state width="1877" height="520" key="GridCell.Tab.0.left" timestamp="1605273920154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="520" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605273920154" />
+    <state width="1877" height="520" key="GridCell.Tab.0.right" timestamp="1605273920154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="520" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605273920154" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1604972354066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604972354066" />
+  </component>
+</project>
